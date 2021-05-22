@@ -1,4 +1,4 @@
-# CG-Project
+# Day-Night Cycle | CG-Project | OpenGL
 <h2>In main.cpp dont forget to add your name and rollno</h2>
 <strong><p>To download the source code</p></strong>
 <p>Code &rarr; Download ZIP</p>
